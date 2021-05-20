@@ -1,0 +1,9 @@
+.container {
+  min-height: 100vh;
+  /* background-color: red; */
+}
+
+.row {
+  max-width: 500px;
+  margin: auto;
+}
